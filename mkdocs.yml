@@ -2,4 +2,6 @@ site_name: gwdocs
 theme:
   name: material
   language: nl
+site-url: https://groenwaasmunster.github.io/gwdocs/
+  
     
