@@ -3,5 +3,9 @@ theme:
   name: material
   language: nl
 site-url: https://groenwaasmunster.github.io/gwdocs/
+plugins:
+    - search:
+        lang: nl
+        
   
     
