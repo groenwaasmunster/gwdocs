@@ -7,6 +7,6 @@
 
 **een verwijzing naar een bestand**
 
-[aankondigingdocx]()(/best/aankondiging mijn gezondheid.docx)
+[aankondigingdocx]()(best/aankondiging mijn gezondheid.docx)
 
-[aankondigingodt]()(/best/aankondiging mijn gezondheid.odt)
+[aankondigingodt]()(best/aankondiging mijn gezondheid.odt)
