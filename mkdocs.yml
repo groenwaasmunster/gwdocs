@@ -6,6 +6,7 @@ site-url: https://groenwaasmunster.github.io/gwdocs/
 plugins:
     - search:
         lang: nl
-        
+use_directory_urls: false
+
   
     
