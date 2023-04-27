@@ -11,6 +11,6 @@
 
 [aankondigingodt]()(best/aankondiging mijn gezondheid.odt)
 
-[portret]()(best/Eric foto 2012.jpg "eric in 2012")
+![portret]()(best/Eric foto 2012.jpg "eric in 2012")
 
 [onzegezondheid-pdf]()(best/presentatie onze gezondheid.pdf)
