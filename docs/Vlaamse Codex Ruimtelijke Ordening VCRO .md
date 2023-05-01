@@ -9,5 +9,5 @@ de Codextrein 2017
 
 zie bijlage  :  verslag GECORO 
 
-![Verslag GECORO 16092020.docx](.attachments.19953615/Verslag%20GECORO%2016092020.docx)
+[Verslag GECORO 16092020.docx](best/Verslag%20GECORO%2016092020.docx)
 
