@@ -6,5 +6,6 @@
 
 **pagina 24** : er kan afgeweken worden van het MWeA ( Meest Wenselijk Alternatief ) o.a. op voorstel van lokale besturen, mits een aantal voorwaarden ....
 
-![besluit 2005 vlaamse regering sigmaplan .pdf](.attachments.19961529/besluit%202005%20vlaamse%20regering%20sigmaplan%20.pdf)
+[besluit 2005 vlaamse regering sigmaplan .pdf](best/besluit%202005%20vlaamse%20regering%20sigmaplan%20.pdf)
+
 
