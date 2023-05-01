@@ -7,8 +7,8 @@
 [Wettelijke verantwoording verzoekschrift PR.docx](best/Wettelijke%20verantwoording%20verzoekschrift%20PR.docx)
 
 
-![Nieuwsbr VWW 201807.pdf](best/Nieuwsbr%20VWW%20201807.pdf)
+[Nieuwsbr VWW 201807.pdf](best/Nieuwsbr%20VWW%20201807.pdf)
 
 
-![GRUP sigmaplan 2010.pdf](best/GRUP%20sigmaplan%202010.pdf)
+[GRUP sigmaplan 2010.pdf](best/GRUP%20sigmaplan%202010.pdf)
 
