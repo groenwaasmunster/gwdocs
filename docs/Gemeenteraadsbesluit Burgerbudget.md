@@ -1,4 +1,4 @@
 gemeenteraad 28 april 2022
 
-![Burgerbudget Gemeenteraad april 2022.pdf](.attachments.19783830/Burgerbudget%20Gemeenteraad%20april%202022.pdf)
+[Burgerbudget Gemeenteraad april 2022.pdf](best/Burgerbudget%20Gemeenteraad%20april%202022.pdf)
 
