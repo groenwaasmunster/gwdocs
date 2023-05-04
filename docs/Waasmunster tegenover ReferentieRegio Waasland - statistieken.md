@@ -2,5 +2,5 @@
 
 *zie ook bijlage:*
 
-![gemeentestadsmonitor_Referentieregio_Waasmunster.pdf](.attachments.19892550/gemeentestadsmonitor_Referentieregio_Waasmunster.pdf)
+[gemeentestadsmonitor_Referentieregio_Waasmunster.pdf](best/gemeentestadsmonitor_Referentieregio_Waasmunster.pdf)
 
