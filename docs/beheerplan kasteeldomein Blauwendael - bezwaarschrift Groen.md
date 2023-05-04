@@ -1,4 +1,4 @@
 *zie bijlage*
 
-![beheerplan-blauwendael_bezwaarschrift.pdf](.attachments.19892926/beheerplan-blauwendael_bezwaarschrift.pdf)
+[beheerplan-blauwendael_bezwaarschrift.pdf](best/beheerplan-blauwendael_bezwaarschrift.pdf)
 
