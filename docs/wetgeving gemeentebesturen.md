@@ -2,6 +2,7 @@
 
 <https://www.vlaanderen.be/lokaal-bestuur>
 
-reglementen voor lokale besturen in verschillende domeinen
-rechten en plichten
-procedures
+reglementen voor lokale besturen in verschillende domeinen  
+rechten en plichten  
+procedures  
+
