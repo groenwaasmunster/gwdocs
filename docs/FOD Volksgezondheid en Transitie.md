@@ -6,3 +6,5 @@ de FOD heet voluit: FOD Volksgezondheid, Sociale Zaken en Leefmilieu, dus mogen 
 Fantastische principes, alleen de uitvoering nog ....  
 
 andere trefwoorden: duurzaamheid planeet ongelijkheid overheid regering
+
+(duurzaamheid)
