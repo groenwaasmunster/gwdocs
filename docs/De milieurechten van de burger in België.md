@@ -5,3 +5,9 @@ openbaarheid van milieuzaken
 recht op inspraak/bezwaar  
 
 recht op beroep
+
+openbaar onderzoek
+
+(participatie)
+
+(milieu)
