@@ -12,3 +12,4 @@ voor een snelle instap:
 
 [Handleiding_Quickscan_Duurzame_Wijken_v1.1(1).pdf](best/Handleiding_Quickscan_Duurzame_Wijken_v1.1%281%29.pdf)
 
+(buurt)
