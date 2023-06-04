@@ -1,8 +1,12 @@
+(armoede)
+
 (burgerbudget)
 
 (buurt)
 
 (commons)
+
+(digitale kloof)
 
 (duurzaamheid)
 
