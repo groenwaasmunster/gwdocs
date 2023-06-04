@@ -11,3 +11,5 @@ zie bijlage  :  verslag GECORO
 
 [Verslag GECORO 16092020.docx](best/Verslag%20GECORO%2016092020.docx)
 
+(wonen)
+(milieu)
