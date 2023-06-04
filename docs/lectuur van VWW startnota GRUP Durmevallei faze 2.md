@@ -30,3 +30,5 @@ Er worden in deze startnota géén andere planalternatieven voor het realiseren 
 agrarische structuur geformuleerd of onderzocht omdat het planvoorstel het resultaat is van de vertaling van de ruimtelijke visie op landbouw, natuur en bos waarvoor via een participatief proces reeds tot een afgewogen en geïntegreerd voorstel voor de gewenste ruimtelijke structuur van de open ruimte is gekomen. *DAT IS STRAF!*  
 
 Tenzij uit de inspraakrecreaties over deze startnota valabele te onderzoeken alternatieven of ruimtelijke configuraties aangebracht zouden worden die op een evenwaardige wijze de plandoelstelling m.b.t. het realiseren van de gewenste natuurlijke en agrarische structuur zouden invullen, zullen er dus geen planalternatieven meer overwogen worden.
+
+(sigmaplan)
