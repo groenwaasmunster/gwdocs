@@ -12,6 +12,8 @@
 
 (energie)
 
+(gemeente)
+
 (gemeentefinanciën)
 
 (jongeren)
@@ -28,7 +30,7 @@
 
 (sigmaplan)
 
-(gemeente)
+(voeding)
 
 (wonen)
 
