@@ -17,3 +17,5 @@ er kan steeds een wijziging aan een omgevingsvergunning worden aangevraagd (net 
 In dit geval is de Vlaamse WaterWeg de aanvrager, en de Vlaamse Overheid (minister van Omgeving Zuhal Demir) de vergunner.
 
 Het Gemeentebestuur kan bij de VWW aandringen op wijziging.
+
+(sigmaplan)
