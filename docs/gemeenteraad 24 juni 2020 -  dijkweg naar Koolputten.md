@@ -9,3 +9,5 @@ wijziging van de openbare wegenis terzake het dijktracé "spoorwegdijk-
 Koolputten" te Waasmunster.\*\*  
 
 Groen zal hierover een standpunt innemen, zie volgende week
+
+(sigmaplan)
