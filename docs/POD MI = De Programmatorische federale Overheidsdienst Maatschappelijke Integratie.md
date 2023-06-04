@@ -19,3 +19,5 @@ GROOTSTEDELIJKE PROBLEMEN
 FEAD Fédération européenne des Activités du Déchet ( VOEDSEL )  
 
 ERVARINGSDESKUNDIGEN
+
+(armoede)
