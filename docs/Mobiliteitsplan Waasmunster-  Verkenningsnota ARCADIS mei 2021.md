@@ -6,5 +6,5 @@ in deze groep zetelt voor Groen : ons raadslid Marc De Beule
 
 [mobiliteitsplan_verkenningsnota_Waasmunster_draft_V4.pdf](best/mobiliteitsplan_verkenningsnota_Waasmunster_draft_V4.pdf)
 
-  
-m
+(mobiliteit)  
+
