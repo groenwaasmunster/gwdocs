@@ -2,3 +2,5 @@ Dit voorjaar zal het Vlaams parlement stemmen over het instrumentendecreet en he
 
 [2021-02-22 🖊 Hoe lokaal de bouwshift vorm geven - Ruimtelijke ontwikkeling - Themaspace.pdf](best/2021-02-22%20%F0%9F%96%8A%20Hoe%20lokaal%20de%20bouwshift%20vorm%20geven%20-%20Ruimtelijke%20ontwikkeling%20-%20Themaspace.pdf)
 
+(wonen)
+(milieu)
