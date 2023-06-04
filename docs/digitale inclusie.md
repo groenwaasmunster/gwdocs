@@ -13,3 +13,5 @@ stad sint-niklaas :
 \[<https://sint-niklaas.be/onze-dienstverlening/geld-hulp-en-advies/digitaal-mee](https://www.sint-niklaas.be/onze-dienstverlening/geld-hulp-en-advies/digitaal-mee> "<https://sint-niklaas.be/onze-dienstverlening/geld-hulp-en-advies/digitaal-mee>"\]
 
 \[<https://sint-niklaas.be/onze-dienstverlening/geld-hulp-en-advies/digitaal-mee/digipunten](https://www.sint-niklaas.be/onze-dienstverlening/geld-hulp-en-advies/digitaal-mee/digipunten> "<https://sint-niklaas.be/onze-dienstverlening/geld-hulp-en-advies/digitaal-mee/digipunten>"\]
+
+(digitale kloof)
