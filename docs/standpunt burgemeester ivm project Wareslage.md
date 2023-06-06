@@ -4,4 +4,7 @@ bauwens over bouwproject door immo in woonuitbreidingsgebied
 
 [Wareslage Standpunt Bauwens.odt](best/Wareslage%20Standpunt%20Bauwens.odt)
 
+(wonen)
+(milieu)
+
 
