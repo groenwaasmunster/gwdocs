@@ -4,5 +4,7 @@
 
 reglementen voor lokale besturen in verschillende domeinen  
 rechten en plichten  
-procedures  
+procedures 
+
+(gemeente)
 
