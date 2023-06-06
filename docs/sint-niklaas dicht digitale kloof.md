@@ -3,3 +3,5 @@
 <https://www.groensintniklaas.be/e_inclusie>
 
 computer inclusie 
+
+(digitale kloof)
