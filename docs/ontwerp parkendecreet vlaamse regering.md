@@ -4,9 +4,16 @@ goedkeuring van het ontwerp door Vlaams parlement
 
 [vlaams parlement ontwerp parkendecreet](best/vlaams%20parlement%20ontwerp%20parkendecreet.pdf)
 
+Reacties:
+
 [gemeentebestuur Waasmunster stapt uit het Nationaal Park Scheldevallei](best/waasmunster%20stapt%20uit%20nationaal%20park.odt)
 
 [geruststellende nota van Vlaamse Regering naar Gemeentebestuur Waasmunster](best/toelichting%20%20nationale%20parken.pdf)
+
+Standpunt Groen Waasmunster:
+
+[nationaal park standpunt groen.odt](https://github.com/groenwaasmunster/gwdocs/files/11990782/nationaal.park.standpunt.groen.odt)
+
 
 andere documenten van de Vlaamse Regering:
 
