@@ -18,6 +18,8 @@
 
 (gemeentefinanciën)
 
+(gemeenteraad)
+
 (jongeren)
 
 (klimaat)
