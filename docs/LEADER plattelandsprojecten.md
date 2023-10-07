@@ -1,5 +1,6 @@
-vlaanderen subsidies projecten 
+vlaanderen subsidies projecten
 
-https://www.leaderoostvlaanderen.be
+[LEADER oost-vlaanderen](https://www.leaderoostvlaanderen.be)
 
 (gemeenteraad)  (gemeente)
+
