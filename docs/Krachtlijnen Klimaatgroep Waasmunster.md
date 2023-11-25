@@ -2,7 +2,7 @@ juni 2021
 
 *zie bijlage*
 
-![Krachtlijnen voor een gemeentelijk klimaatbeleid en voorstellen van actiepunten voor Waasmunster.docx](.attachments.19960139/Krachtlijnen%20voor%20een%20gemeentelijk%20klimaatbeleid%20en%20voorstellen%20van%20actiepunten%20voor%20Waasmunster.docx)
+[Krachtlijnen en actiepunten voor een klimaatbeleid in Waasmunster.pdf](https://github.com/groenwaasmunster/gwdocs/files/13464785/Krachtlijnen.en.actiepunten.voor.een.klimaatbeleid.in.Waasmunster.pdf)
 
 (milieu)  (klimaat)
 
