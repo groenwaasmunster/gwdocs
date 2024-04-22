@@ -4,4 +4,8 @@ windenergie participatie gemeenten en burgers
 
 windgids 2019 wordt binnenkort geactualiseerd dd 22 april 2024
 
+zie ook: 
+
+[Oudenaarde paticipatie windturbines](best/oudenaarde%20windturbines%20participatie.pdf)
+
 (energie) (gemeente) (participatie)
