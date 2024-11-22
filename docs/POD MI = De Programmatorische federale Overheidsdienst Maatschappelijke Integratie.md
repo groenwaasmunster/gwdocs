@@ -1,4 +1,4 @@
-\[<https://mi-is.be/nl](https://www.mi-is.be/nl> "<https://mi-is.be/nl>"\]  
+[POD MI](https://www.mi-is.be/nl)  
 
 dit is een website van de Federale Overheid, voornamelijk ten behoeve van de OCMW 's  
 
