@@ -9,7 +9,7 @@ sociale woningbouw maatschappijen fondsen etc
 
 [HET PANDSCHAP](https://pandschap.be/)
 
-[over lokaal woonoverleg](https://www.vvsg.be/kennisitem/vvsg/het-lokaal-woonoverleg)
+[VVSG woonbeleid lokale besturen](https://www.vvsg.be/kennisitem/vvsg/woonbeleid-door-lokale-besturen)
 
 [lokaal voonoverleg wetgeving](https://www.vlaanderen.be/lokaal-woonbeleid/lokaal-woonoverleg)
 
