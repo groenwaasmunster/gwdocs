@@ -17,7 +17,9 @@ sociale woningbouw maatschappijen fondsen etc
 
 [constructieve benadering overheidsopdrachten](https://www.vlaanderen.be/sociaal-woonbeleid/sociale-woningen/realiseren-of-renoveren-van-sociale-woonprojecten/private-samenwerkingen/constructieve-benadering-overheidsopdrachten-cbo)
 
-[goede woning](https://www.vlaanderen.be/sociaal-woonbeleid/sociale-woningen/verwerven-en-vervreemden/verwervingen/aankoop-goede-woning-via-gewone-aankoop)
+[verwerven van sociale woningen](https://www.vlaanderen.be/sociaal-woonbeleid/sociale-woningen/verwerven-en-vervreemden/verwervingen)
+
+[verkopen van sociale woningen](https://www.vlaanderen.be/sociaal-woonbeleid/sociale-woningen/verwerven-en-vervreemden/vervreemdingen)
 
 [geconventioneerde verhuur lokale besturen](https://www.vlaanderen.be/lokaal-woonbeleid/geconventioneerde-verhuur-voor-lokale-besturen)
 
